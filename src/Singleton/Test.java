@@ -1,6 +1,6 @@
 package Singleton;
 
-public class SingletonTest {
+public class Test {
     public static void main(String[] args) {
 
         //Testes relacionados ao Design Patters Singleton
